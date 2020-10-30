@@ -1,4 +1,23 @@
-<?php
-echo"<h2>IT@KMITL</h2>";
-echo"Hello IT<br>";
-?>
+<html>
+
+<head>
+    <title>Hello world</title>
+</head>
+
+<body>
+    <h1>My Frist Heading</h1>
+    <p>My First paragraph</p>
+    <img src="cat.jpg">
+    <br>
+    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+
+    <h2>The unordered list</h2>
+    <ul>
+        <li>Google</li>
+        <li>Yahoo</li>
+        <li>Amazon</li>
+        <ul>
+
+</body>
+
+</html>
