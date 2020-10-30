@@ -12,7 +12,7 @@
     <img src="cat2.jpeg">
     
     <br>
-    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+    <a href="http://www.oremanga.com/">This is a Link</a>
 
     <p>เรื่องตลก</p>
     <p>ท่านผู้โดยสารทุกท่านโปรดทราบขณะนี้เครื่องบินของเราที่จะบินไปปารากวัย</p> 
