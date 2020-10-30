@@ -1,13 +1,16 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
     <title>Hello world</title>
 </head>
 
 <body>
-    <h1>My Frist Heading</h1>
-    <p>My First paragraph</p>
+    <h1>Hello IT</h1>
+    <p>นางสาวณัฐินทร์ ทรัพย์สมบูรณ์ แนน</p>
     <img src="cat.jpg">
+    <img src="cat2.jpg">
+    
     <br>
     <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
